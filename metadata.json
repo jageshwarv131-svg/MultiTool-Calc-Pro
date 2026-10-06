@@ -1,0 +1,6 @@
+{
+  "name": "MultiTool Calc Pro",
+  "description": "MultiTool Calc Pro: Standard and scientific calculator, live currency exchange, mass conversion, tip and discount tools with glassmorphism UI and 20 curated themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
